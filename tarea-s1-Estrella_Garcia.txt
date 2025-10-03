@@ -1,0 +1,135 @@
+    1  git config --global user.name "ebgarcia"
+    2  git config --global user.email "ebgarcia@sudamericano.edu.ec"
+    3  cls
+    4  clone 
+    5  clear
+    6  git add .
+    7  clear
+    8  ls
+    9  git add documents
+   10  clear
+   11  php -v
+   12  cd C:\xampp\htdocs
+   13  cls
+   14  clear
+   15  git init
+   16  cl
+   17  cls
+   18  clear
+   19  git status
+   20  cls
+   21  clear
+   22  cd 
+   23  cls
+   24  clear
+   25  curl -v https://ws1.funhogar.ec:9001/socket.io/
+   26  curl -vI https://ws1.funhogar.ec
+   27  curl -vI https://ws1.funhogar.ec:9001/socket.io/?EIO=3&transport=polling
+   28  wscat -c wss://ws1.funhogar.ec/socekt.io/?EIO=3&transport=websocket
+   29  clear
+
+
+---------------------------------------------------------------------------
+ DEBER TENDENCIAS 
+---------------------------------------------------------------------------
+-> 30  ls
+   31  cd documnets
+   32  clear
+   33  cd Documents
+   34  ls
+   35  cd Cuarto CICLO
+   36  CD CUARTO CICLO
+   37  cd CUARTO CICLO
+   38  cd 'CUARTO CICLO'
+   39  LS
+   40  cd 'TENDENCIAS TEGNOLOGICAS'
+   41  cd TENDENCIAS TEGNOLOGICAS'
+   42  cls
+   43  clssd .
+   44  history
+   45  cd Documents
+   46  ls
+   47  cd 'CUARTO CICLO'
+   48  ls
+   49  cd 'TENDENCIAS TECNOLOGICAS'
+   50  ls
+   51  cd 'MOMENTO 1'
+   52  clear
+   53  pwd
+   54  clone
+   55  clear
+   56  mkdir proyecto_comandos
+   57  cd proyecto_comandos/
+   58  mkdir documentos
+   59  mkdir imagenes
+   60  mkdir scripts
+   61  cd clear
+   62  clear
+   63  cd documentos/
+   64  touch notas.txt
+   65  echo "Hola"> notas.txt
+   66  echo "Mundo"> notas.txt
+   67  echo "Cruel"> notas.txt
+   68  ls
+   69  cls
+   70  clone
+   71  clear
+   72  echo "Hola"> notas.txt
+   73  echo "Mundo">> notas.txt
+   74  echo "Cruel">> notas.txt
+   75  clear
+   76  rm notas.txt 
+   77  ls
+   78  clear
+   79  touch notas.txt
+   80  echo "Hola"> notas.txt
+   81  echo "Mundo">> notas.txt
+   82  echo "Cruel">> notas.txt
+   83  clear
+   84  cp notas.txt ../scripts/backup_notas.txt
+   85  cd ..
+   86  cd scripts/
+   87  ls
+   88  mv backup_notas.txt ,,/imagenes/
+   89  mv backup_notas.txt ../imagenes/
+   90  clear
+   91  cd ..
+   92  cd documentos/
+   93  touch resumen.txt
+   94  cd ..
+   95  ls 
+   96  cd documentos/
+   97  ls - | grep .tt
+   98  ls - | grep .txt
+   99  ls -al | grep .txt
+  100  ls | grep .txt
+  101  clear
+  102  ls
+  103  cat notas.txt > resumen.txt
+  104  echo "Nueva linea" >> resumen.txt
+  105  cat resumen.txt 
+  106  clear
+  107  cd .
+  108  cd ..
+  109  cd imagenes/
+  110  clear
+  111  rm backup_notas.txt 
+  112  ls
+  113  cd ..
+  114  rm -r imagenes/
+  115  ls
+  116  clear
+  117  history
+  118  clear
+  119  history | tail -n > tarea-s1-Estrella Garcia
+  120  history > tarea-s1-Estrella Garcia
+  121  history | -n > tarea-s1-Estrella Garcia
+  122  clear
+  123  history | tail -n 25> tarea-s1-Estrella Garcia
+  124  clear
+  125  history | tail -n 25> tarea-s1-Estrella Garcia.txt
+  126  clear
+  127  history | tail -n 25> tarea-s1-Estrella_Garcia.txt
+  128  history | tail -n 25 > tarea-s1-Estrella_Garcia.txt
+  129  history | tail -n 40 > tarea-s1-Estrella_Garcia.txt
+  130  history > tarea-s1-Estrella_Garcia.txt
