@@ -15,9 +15,9 @@ mkdir documentos imagenes scripts
 * Crear `notas.txt` en documentos:
 
 ```bash
-echo "Primera nota" > notas.txt
-echo "Segunda nota" >> notas.txt
-echo "Tercera nota" >> notas.txt
+echo "Hola" > notas.txt
+echo "Mundo" >> notas.txt
+echo "Cruel" >> notas.txt
 ```
 
 * Copiar y mover archivos:
