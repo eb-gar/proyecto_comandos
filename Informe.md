@@ -53,10 +53,10 @@ history > tarea-s1-nombre_apellido.txt
 
 * `notas.txt`
 * `resumen.txt`
-* `tarea-s1-nombre_apellido.txt`
+* `tarea-s1-Estrella_Garcia.txt`
 
 ---
 
 ## 🎤 Evidencia adicional
 
-* Se adjunta un archivo con imagenes y un audio `audio.mp3` con un resumen personal de lo aprendido.
+* Se adjunta un carpeta con imagenes con un resumen de lo aprendido.
